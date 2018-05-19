@@ -10,7 +10,7 @@ To run, simple type
 
 Then run each cell.
 
-You will need to download the NIH dataset yourself from [this]() link. Then, in the same directory that your run your notebook, you need to nest the data as such:
+You will need to download the NIH dataset yourself from [this](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community) link. Then, in the same directory that your run your notebook, you need to nest the data as such:
 
 ~~~
 ./data/images 01/***.png
